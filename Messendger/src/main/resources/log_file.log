@@ -1,0 +1,442 @@
+2015-12-15 16:39:01 INFO  Server:202 - new acceptable
+2015-12-15 16:50:59 INFO  Server:201 - new acceptable
+2015-12-15 16:51:16 INFO  Server:201 - new acceptable
+2015-12-15 16:51:25 INFO  Server:203 - new readable
+2015-12-15 16:51:26 INFO  Server:246 - [writable]
+2015-12-15 16:51:31 INFO  Server:203 - new readable
+2015-12-15 16:51:31 INFO  Server:246 - [writable]
+2015-12-15 16:51:35 INFO  Server:203 - new readable
+2015-12-15 16:51:35 INFO  Server:246 - [writable]
+2015-12-15 16:51:35 INFO  Server:203 - new readable
+2015-12-15 16:51:36 INFO  Server:246 - [writable]
+2015-12-15 17:15:20 INFO  Client:87 - connection is finished
+2015-12-15 17:15:20 INFO  Client:115 - [writable]
+2015-12-15 17:15:20 INFO  Client:94 - [readable]
+2015-12-15 17:15:20 INFO  Server:63 - new acceptable with token = 1
+2015-12-15 17:15:20 INFO  Client:115 - [writable]
+2015-12-15 17:15:26 INFO  Client:115 - [writable]
+2015-12-15 17:15:26 INFO  Server:72 - new message = '>g' from clientId = 1
+2015-12-15 17:15:26 INFO  Server:246 - [writable]
+2015-12-15 17:15:26 INFO  Client:94 - [readable]
+2015-12-15 17:15:26 INFO  Client:108 - From server: >g
+2015-12-15 17:15:26 INFO  Client:115 - [writable]
+2015-12-15 17:15:32 INFO  Client:115 - [writable]
+2015-12-15 17:15:33 INFO  Server:72 - new message = 'you have authorized' from clientId = 1
+2015-12-15 17:15:33 INFO  Server:246 - [writable]
+2015-12-15 17:15:33 INFO  Client:94 - [readable]
+2015-12-15 17:15:33 INFO  Client:108 - From server: you have authorized
+2015-12-15 17:15:33 INFO  Client:115 - [writable]
+2015-12-15 17:15:35 INFO  Client:115 - [writable]
+2015-12-15 17:15:35 INFO  Server:72 - new message = '(message is stored)>d' from clientId = 1
+2015-12-15 17:15:35 INFO  Server:246 - [writable]
+2015-12-15 17:15:35 INFO  Client:94 - [readable]
+2015-12-15 17:15:35 INFO  Client:108 - From server: (message is stored)>d
+2015-12-15 17:15:35 INFO  Client:115 - [writable]
+2015-12-15 17:15:41 INFO  Client:115 - [writable]
+2015-12-15 17:15:41 INFO  Server:72 - new message = 'sdf
+naked rat
+sadf
+sadw
+new way of using server
+q\exit
+sdaf
+f
+defaultMessage
+dsf
+f
+d
+d
+fdsdaf
+d
+asfd
+sdf
+sfdsadfasdf
+sfdsaf
+жопа
+dsf
+dsf
+sdf
+fd
+sfa
+dsf
+п
+f
+куку
+rere
+547
+№
+"
+!
+ХЪ
+{}
+&
+№
+h
+
+rere
+f
+d
+' from clientId = 1
+2015-12-15 17:15:41 INFO  Server:246 - [writable]
+2015-12-15 17:15:41 INFO  Client:94 - [readable]
+2015-12-15 17:15:41 INFO  Client:108 - From server: sdf
+naked rat
+sadf
+sadw
+new way of using server
+q\exit
+sdaf
+f
+defaultMessage
+dsf
+f
+d
+d
+fdsdaf
+d
+asfd
+sdf
+sfdsadfasdf
+sfdsaf
+Р¶РѕРїР°
+dsf
+dsf
+sdf
+fd
+sfa
+dsf
+Рї
+f
+РєСѓРєСѓ
+rere
+547
+в„–
+"
+!
+РҐРЄ
+{}
+&
+в„–
+h
+
+rere
+f
+d
+
+2015-12-15 17:15:41 INFO  Client:115 - [writable]
+2015-12-15 17:15:51 INFO  Client:94 - [readable]
+2015-12-15 18:38:34 INFO  Client:86 - connection is finished
+2015-12-15 18:38:34 INFO  Client:114 - [writable]
+2015-12-15 18:38:34 INFO  Server:63 - new acceptable with token = 1
+2015-12-15 18:38:34 INFO  Client:93 - [readable]
+2015-12-15 18:38:34 INFO  Client:114 - [writable]
+2015-12-15 18:47:11 INFO  Server:292 - stop server
+2015-12-15 18:59:23 INFO  Server:292 - stop server
+2016-04-22 14:37:41 INFO  Client:86 - connection is finished
+2016-04-22 14:37:41 INFO  Client:114 - [writable]
+2016-04-22 14:37:41 INFO  Client:93 - [readable]
+2016-04-22 14:37:41 INFO  Server:63 - new acceptable with token = 1
+2016-04-22 14:37:41 INFO  Client:114 - [writable]
+2016-04-22 14:37:46 INFO  Client:114 - [writable]
+2016-04-22 14:37:46 INFO  Server:72 - new message = '>ку' from clientId = 1
+2016-04-22 14:37:46 INFO  Server:246 - [writable]
+2016-04-22 14:37:46 INFO  Client:93 - [readable]
+2016-04-22 14:37:46 INFO  Client:107 - From server: >РєСѓ
+2016-04-22 14:37:46 INFO  Client:114 - [writable]
+2016-04-22 14:37:54 INFO  Client:114 - [writable]
+2016-04-22 14:37:54 INFO  Server:72 - new message = '>авы' from clientId = 1
+2016-04-22 14:37:54 INFO  Server:246 - [writable]
+2016-04-22 14:37:54 INFO  Client:93 - [readable]
+2016-04-22 14:37:54 INFO  Client:107 - From server: >Р°РІС‹
+2016-04-22 14:37:54 INFO  Client:114 - [writable]
+2016-04-22 14:38:01 INFO  Client:114 - [writable]
+2016-04-22 14:38:01 INFO  Server:72 - new message = '>fd' from clientId = 1
+2016-04-22 14:38:01 INFO  Server:246 - [writable]
+2016-04-22 14:38:01 INFO  Client:93 - [readable]
+2016-04-22 14:38:01 INFO  Client:107 - From server: >fd
+2016-04-22 14:38:01 INFO  Client:114 - [writable]
+2016-04-22 14:38:34 INFO  Client:114 - [writable]
+2016-04-22 14:38:34 INFO  Server:72 - new message = '>/help' from clientId = 1
+2016-04-22 14:38:34 INFO  Server:246 - [writable]
+2016-04-22 14:38:34 INFO  Client:93 - [readable]
+2016-04-22 14:38:34 INFO  Client:107 - From server: >/help
+2016-04-22 14:38:34 INFO  Client:114 - [writable]
+2016-04-22 14:38:37 INFO  Client:114 - [writable]
+2016-04-22 14:38:37 INFO  Server:72 - new message = 'There's no such command. Please, enter '\help' for getting list of available commands' from clientId = 1
+2016-04-22 14:38:37 INFO  Server:246 - [writable]
+2016-04-22 14:38:37 INFO  Client:93 - [readable]
+2016-04-22 14:38:37 INFO  Client:107 - From server: There's no such command. Please, enter '\help' for getting list of available commands
+2016-04-22 14:38:37 INFO  Client:114 - [writable]
+2016-04-22 14:38:43 INFO  Client:114 - [writable]
+2016-04-22 14:38:43 INFO  Server:72 - new message = 'Available list of commands:
+\login <user_login> <password> - for authorization
+\login new <user_login> <password> - for register new user
+\history - for getting history of messages
+\find <key_word> - for searching through the history
+\create_chat <chat_name> - create new chat with chat_name name
+\connect_chat <chat_name> - connect you to chat with chat_name name
+q|exit - for leaving chat' from clientId = 1
+2016-04-22 14:38:43 INFO  Server:246 - [writable]
+2016-04-22 14:38:43 INFO  Client:93 - [readable]
+2016-04-22 14:38:43 INFO  Client:107 - From server: Available list of commands:
+\login <user_login> <password> - for authorization
+\login new <user_login> <password> - for register new user
+\history - for getting history of messages
+\find <key_word> - for searching through the history
+\create_chat <chat_name> - create new chat with chat_name name
+\connect_chat <chat_name> - connect you to chat with chat_name name
+q|exit - for leaving chat
+2016-04-22 14:38:43 INFO  Client:114 - [writable]
+2016-04-22 14:38:58 INFO  Server:231 - Failed to read data from channel
+java.io.IOException: Удаленный хост принудительно разорвал существующее подключение
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at working.Server.run(Server.java:211)
+	at java.lang.Thread.run(Thread.java:745)
+2016-05-13 12:28:36 INFO  Client:86 - connection is finished
+2016-05-13 12:28:36 INFO  Client:114 - [writable]
+2016-05-13 12:28:36 INFO  Client:93 - [readable]
+2016-05-13 12:28:36 INFO  Server:63 - new acceptable with token = 1
+2016-05-13 12:28:36 INFO  Client:114 - [writable]
+2016-05-13 12:28:42 INFO  Client:114 - [writable]
+2016-05-13 12:28:42 INFO  Server:72 - new message = '>re' from clientId = 1
+2016-05-13 12:28:42 INFO  Server:246 - [writable]
+2016-05-13 12:28:42 INFO  Client:93 - [readable]
+2016-05-13 12:28:42 INFO  Client:107 - From server: >re
+2016-05-13 12:28:42 INFO  Client:114 - [writable]
+2016-05-13 12:28:51 INFO  Client:114 - [writable]
+2016-05-13 12:28:51 INFO  Server:72 - new message = '>nfg' from clientId = 1
+2016-05-13 12:28:51 INFO  Server:246 - [writable]
+2016-05-13 12:28:51 INFO  Client:93 - [readable]
+2016-05-13 12:28:51 INFO  Client:107 - From server: >nfg
+2016-05-13 12:28:51 INFO  Client:114 - [writable]
+2016-05-13 12:29:03 INFO  Client:114 - [writable]
+2016-05-13 12:29:03 INFO  Server:72 - new message = 'There's no such command. Please, enter '\help' for getting list of available commands' from clientId = 1
+2016-05-13 12:29:03 INFO  Server:246 - [writable]
+2016-05-13 12:29:03 INFO  Client:93 - [readable]
+2016-05-13 12:29:03 INFO  Client:107 - From server: There's no such command. Please, enter '\help' for getting list of available commands
+2016-05-13 12:29:03 INFO  Client:114 - [writable]
+2016-05-13 12:29:07 INFO  Client:114 - [writable]
+2016-05-13 12:29:07 INFO  Server:72 - new message = '>' from clientId = 1
+2016-05-13 12:29:07 INFO  Server:246 - [writable]
+2016-05-13 12:29:07 INFO  Client:93 - [readable]
+2016-05-13 12:29:07 INFO  Client:107 - From server: >
+2016-05-13 12:29:07 INFO  Client:114 - [writable]
+2016-05-13 12:29:10 INFO  Client:114 - [writable]
+2016-05-13 12:29:10 INFO  Server:72 - new message = 'Available list of commands:
+\login <user_login> <password> - for authorization
+\login new <user_login> <password> - for register new user
+\history - for getting history of messages
+\find <key_word> - for searching through the history
+\create_chat <chat_name> - create new chat with chat_name name
+\connect_chat <chat_name> - connect you to chat with chat_name name
+q|exit - for leaving chat' from clientId = 1
+2016-05-13 12:29:10 INFO  Server:246 - [writable]
+2016-05-13 12:29:10 INFO  Client:93 - [readable]
+2016-05-13 12:29:10 INFO  Client:107 - From server: Available list of commands:
+\login <user_login> <password> - for authorization
+\login new <user_login> <password> - for register new user
+\history - for getting history of messages
+\find <key_word> - for searching through the history
+\create_chat <chat_name> - create new chat with chat_name name
+\connect_chat <chat_name> - connect you to chat with chat_name name
+q|exit - for leaving chat
+2016-05-13 12:29:10 INFO  Client:114 - [writable]
+2016-05-13 12:29:24 INFO  Client:114 - [writable]
+2016-05-13 12:29:24 INFO  Server:72 - new message = 'You have successfully registred.' from clientId = 1
+2016-05-13 12:29:24 INFO  Server:246 - [writable]
+2016-05-13 12:29:24 INFO  Client:93 - [readable]
+2016-05-13 12:29:24 INFO  Client:107 - From server: You have successfully registred.
+2016-05-13 12:29:24 INFO  Client:114 - [writable]
+2016-05-13 12:29:32 INFO  Client:114 - [writable]
+2016-05-13 12:29:32 INFO  Server:72 - new message = 'You are not authorized' from clientId = 1
+2016-05-13 12:29:32 INFO  Server:246 - [writable]
+2016-05-13 12:29:32 INFO  Client:93 - [readable]
+2016-05-13 12:29:32 INFO  Client:107 - From server: You are not authorized
+2016-05-13 12:29:32 INFO  Client:114 - [writable]
+2016-05-13 12:29:39 INFO  Client:114 - [writable]
+2016-05-13 12:29:39 INFO  Server:72 - new message = 'you have authorized' from clientId = 1
+2016-05-13 12:29:56 INFO  Client:114 - [writable]
+2016-05-13 12:30:03 INFO  Client:114 - [writable]
+2016-05-13 12:30:03 INFO  Server:72 - new message = '' from clientId = 1
+2016-05-13 12:30:07 INFO  Client:114 - [writable]
+2016-05-13 12:30:11 INFO  Client:114 - [writable]
+2016-05-13 12:30:11 INFO  Server:72 - new message = '' from clientId = 1
+2016-05-13 12:30:43 INFO  Client:114 - [writable]
+2016-05-13 12:30:58 INFO  Client:114 - [writable]
+2016-05-13 12:33:13 INFO  Client:114 - [writable]
+2016-05-13 12:33:22 INFO  Client:114 - [writable]
+2016-05-13 12:33:22 INFO  Server:72 - new message = 'You are already authorizated' from clientId = 1
+2016-05-13 12:33:25 INFO  Client:114 - [writable]
+2016-05-13 12:33:28 INFO  Server:231 - Failed to read data from channel
+java.io.IOException: Удаленный хост принудительно разорвал существующее подключение
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at working.Server.run(Server.java:211)
+	at java.lang.Thread.run(Thread.java:745)
+2016-05-13 12:33:45 INFO  Client:86 - connection is finished
+2016-05-13 12:33:45 INFO  Client:114 - [writable]
+2016-05-13 12:33:45 INFO  Client:93 - [readable]
+2016-05-13 12:33:45 INFO  Server:63 - new acceptable with token = 1
+2016-05-13 12:33:45 INFO  Client:114 - [writable]
+2016-05-13 12:33:50 INFO  Client:114 - [writable]
+2016-05-13 12:33:50 INFO  Server:72 - new message = 'you have authorized' from clientId = 1
+2016-05-13 12:33:50 INFO  Server:246 - [writable]
+2016-05-13 12:33:50 INFO  Client:93 - [readable]
+2016-05-13 12:33:50 INFO  Client:107 - From server: you have authorized
+2016-05-13 12:33:50 INFO  Client:114 - [writable]
+2016-05-13 12:33:56 INFO  Client:114 - [writable]
+2016-05-13 12:33:56 INFO  Server:72 - new message = '(message is stored)>rere' from clientId = 1
+2016-05-13 12:33:56 INFO  Server:246 - [writable]
+2016-05-13 12:33:56 INFO  Client:93 - [readable]
+2016-05-13 12:33:56 INFO  Client:107 - From server: (message is stored)>rere
+2016-05-13 12:33:56 INFO  Client:114 - [writable]
+2016-05-13 12:34:01 INFO  Client:114 - [writable]
+2016-05-13 12:34:01 INFO  Server:72 - new message = 'rere
+' from clientId = 1
+2016-05-13 12:34:01 INFO  Server:246 - [writable]
+2016-05-13 12:34:01 INFO  Client:93 - [readable]
+2016-05-13 12:34:01 INFO  Client:107 - From server: rere
+
+2016-05-13 12:34:01 INFO  Client:114 - [writable]
+2016-05-13 12:34:12 INFO  Client:114 - [writable]
+2016-05-13 12:34:12 INFO  Server:72 - new message = '(message is stored)>отлично!' from clientId = 1
+2016-05-13 12:34:12 INFO  Server:246 - [writable]
+2016-05-13 12:34:12 INFO  Client:93 - [readable]
+2016-05-13 12:34:12 INFO  Client:107 - From server: (message is stored)>РѕС‚Р»РёС‡РЅРѕ!
+2016-05-13 12:34:12 INFO  Client:114 - [writable]
+2016-05-13 12:34:25 INFO  Client:114 - [writable]
+2016-05-13 12:34:25 INFO  Server:72 - new message = 'rere
+отлично!
+' from clientId = 1
+2016-05-13 12:34:25 INFO  Server:246 - [writable]
+2016-05-13 12:34:25 INFO  Client:93 - [readable]
+2016-05-13 12:34:25 INFO  Client:107 - From server: rere
+РѕС‚Р»РёС‡РЅРѕ!
+
+2016-05-13 12:34:25 INFO  Client:114 - [writable]
+2016-05-13 12:34:33 INFO  Client:114 - [writable]
+2016-05-13 12:34:33 INFO  Server:72 - new message = 'There's no such command. Please, enter '\help' for getting list of available commands' from clientId = 1
+2016-05-13 12:34:33 INFO  Server:246 - [writable]
+2016-05-13 12:34:33 INFO  Client:93 - [readable]
+2016-05-13 12:34:33 INFO  Client:107 - From server: There's no such command. Please, enter '\help' for getting list of available commands
+2016-05-13 12:34:33 INFO  Client:114 - [writable]
+2016-05-13 12:34:38 INFO  Client:114 - [writable]
+2016-05-13 12:34:38 INFO  Server:72 - new message = 'Available list of commands:
+\login <user_login> <password> - for authorization
+\login new <user_login> <password> - for register new user
+\history - for getting history of messages
+\find <key_word> - for searching through the history
+\create_chat <chat_name> - create new chat with chat_name name
+\connect_chat <chat_name> - connect you to chat with chat_name name
+q|exit - for leaving chat' from clientId = 1
+2016-05-13 12:34:38 INFO  Server:246 - [writable]
+2016-05-13 12:34:38 INFO  Client:93 - [readable]
+2016-05-13 12:34:38 INFO  Client:107 - From server: Available list of commands:
+\login <user_login> <password> - for authorization
+\login new <user_login> <password> - for register new user
+\history - for getting history of messages
+\find <key_word> - for searching through the history
+\create_chat <chat_name> - create new chat with chat_name name
+\connect_chat <chat_name> - connect you to chat with chat_name name
+q|exit - for leaving chat
+2016-05-13 12:34:38 INFO  Client:114 - [writable]
+2016-05-13 12:34:58 INFO  Client:114 - [writable]
+2016-05-13 12:34:58 INFO  Server:72 - new message = 'There's no such command. Please, enter '\help' for getting list of available commands' from clientId = 1
+2016-05-13 12:34:58 INFO  Server:246 - [writable]
+2016-05-13 12:34:58 INFO  Client:93 - [readable]
+2016-05-13 12:34:58 INFO  Client:107 - From server: There's no such command. Please, enter '\help' for getting list of available commands
+2016-05-13 12:34:58 INFO  Client:114 - [writable]
+2016-05-13 12:35:09 INFO  Client:114 - [writable]
+2016-05-13 12:35:09 INFO  Server:72 - new message = 'Now you are in chat1 chat.' from clientId = 1
+2016-05-13 12:35:09 INFO  Server:246 - [writable]
+2016-05-13 12:35:09 INFO  Client:93 - [readable]
+2016-05-13 12:35:09 INFO  Client:107 - From server: Now you are in chat1 chat.
+2016-05-13 12:35:09 INFO  Client:114 - [writable]
+2016-05-13 12:35:15 INFO  Server:63 - new acceptable with token = 2
+2016-05-13 12:35:15 INFO  Client:86 - connection is finished
+2016-05-13 12:35:15 INFO  Client:114 - [writable]
+2016-05-13 12:35:15 INFO  Client:93 - [readable]
+2016-05-13 12:35:16 INFO  Client:114 - [writable]
+2016-05-13 12:35:25 INFO  Client:114 - [writable]
+2016-05-13 12:35:26 INFO  Server:72 - new message = 'You have successfully registred.' from clientId = 2
+2016-05-13 12:35:26 INFO  Server:246 - [writable]
+2016-05-13 12:35:26 INFO  Client:93 - [readable]
+2016-05-13 12:35:26 INFO  Client:107 - From server: You have successfully registred.
+2016-05-13 12:35:26 INFO  Client:114 - [writable]
+2016-05-13 12:35:31 INFO  Client:114 - [writable]
+2016-05-13 12:35:31 INFO  Server:72 - new message = 'you have authorized' from clientId = 2
+2016-05-13 12:35:31 INFO  Server:246 - [writable]
+2016-05-13 12:35:31 INFO  Client:93 - [readable]
+2016-05-13 12:35:31 INFO  Client:107 - From server: you have authorized
+2016-05-13 12:35:31 INFO  Client:114 - [writable]
+2016-05-13 12:35:36 INFO  Client:114 - [writable]
+2016-05-13 12:35:36 INFO  Server:72 - new message = '(message is stored)>sdf' from clientId = 2
+2016-05-13 12:35:36 INFO  Server:246 - [writable]
+2016-05-13 12:35:36 INFO  Client:93 - [readable]
+2016-05-13 12:35:36 INFO  Client:107 - From server: (message is stored)>sdf
+2016-05-13 12:35:36 INFO  Client:114 - [writable]
+2016-05-13 12:35:42 INFO  Client:114 - [writable]
+2016-05-13 12:35:42 INFO  Server:72 - new message = 'Available list of commands:
+\login <user_login> <password> - for authorization
+\login new <user_login> <password> - for register new user
+\history - for getting history of messages
+\find <key_word> - for searching through the history
+\create_chat <chat_name> - create new chat with chat_name name
+\connect_chat <chat_name> - connect you to chat with chat_name name
+q|exit - for leaving chat' from clientId = 2
+2016-05-13 12:35:42 INFO  Server:246 - [writable]
+2016-05-13 12:35:42 INFO  Client:93 - [readable]
+2016-05-13 12:35:42 INFO  Client:107 - From server: Available list of commands:
+\login <user_login> <password> - for authorization
+\login new <user_login> <password> - for register new user
+\history - for getting history of messages
+\find <key_word> - for searching through the history
+\create_chat <chat_name> - create new chat with chat_name name
+\connect_chat <chat_name> - connect you to chat with chat_name name
+q|exit - for leaving chat
+2016-05-13 12:35:42 INFO  Client:114 - [writable]
+2016-05-13 12:35:51 INFO  Client:114 - [writable]
+2016-05-13 12:35:51 INFO  Server:72 - new message = 'Now you are in chat1 chat.' from clientId = 2
+2016-05-13 12:35:51 INFO  Server:246 - [writable]
+2016-05-13 12:35:51 INFO  Server:246 - [writable]
+2016-05-13 12:35:51 INFO  Client:93 - [readable]
+2016-05-13 12:35:51 INFO  Client:93 - [readable]
+2016-05-13 12:35:51 INFO  Client:107 - From server: Now you are in chat1 chat.
+2016-05-13 12:35:51 INFO  Client:114 - [writable]
+2016-05-13 12:35:51 INFO  Client:107 - From server: Now you are in chat1 chat.
+2016-05-13 12:35:51 INFO  Client:114 - [writable]
+2016-05-13 12:35:56 INFO  Client:114 - [writable]
+2016-05-13 12:35:56 INFO  Server:72 - new message = '(message is stored)>dsf' from clientId = 2
+2016-05-13 12:35:56 INFO  Server:246 - [writable]
+2016-05-13 12:35:56 INFO  Server:246 - [writable]
+2016-05-13 12:35:56 INFO  Client:93 - [readable]
+2016-05-13 12:35:56 INFO  Client:93 - [readable]
+2016-05-13 12:35:56 INFO  Client:107 - From server: (message is stored)>dsf
+2016-05-13 12:35:56 INFO  Client:114 - [writable]
+2016-05-13 12:35:56 INFO  Client:107 - From server: (message is stored)>dsf
+2016-05-13 12:35:56 INFO  Client:114 - [writable]
+2016-05-13 12:36:06 INFO  Server:231 - Failed to read data from channel
+java.io.IOException: Удаленный хост принудительно разорвал существующее подключение
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at working.Server.run(Server.java:211)
+	at java.lang.Thread.run(Thread.java:745)
+2016-05-13 12:36:08 INFO  Server:231 - Failed to read data from channel
+java.io.IOException: Удаленный хост принудительно разорвал существующее подключение
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at working.Server.run(Server.java:211)
+	at java.lang.Thread.run(Thread.java:745)
