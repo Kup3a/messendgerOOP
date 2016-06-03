@@ -19,6 +19,7 @@ public class Session {
     private ChatsStorage chatsStorage;
     private SocketChannel socketChannel;
     private int sessionTocken;
+    public String token;
 
     public MessagesStorage getMessagesStorage() {
         return messagesStorage;

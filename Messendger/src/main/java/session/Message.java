@@ -11,8 +11,9 @@ import java.util.Date;
 public class Message {
     private String body;
     private Date time;
-    private int connectionId;
+    private int connectionId = 0;
     private static ObjectMapper mapper = new ObjectMapper();
+    public String token;
 
     public String getBody() {
         return body;

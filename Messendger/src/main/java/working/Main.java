@@ -19,8 +19,8 @@ public class Main {
 //        ChatServer server = new ChatServer();
 //        server.startServer();
 //        System.out.println("main is over");
-//
-//
+
+
         ChatClient client = new ChatClient();
         client.connectToServer();
 
@@ -36,3 +36,8 @@ public class Main {
     }
 
 }
+/**
+ * vdi.mipt.ru - про контейнер
+ * readme сформируется в процессе разворота
+ * token для каждой авторизации
+ */

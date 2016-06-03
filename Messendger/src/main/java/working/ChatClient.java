@@ -59,10 +59,13 @@ public class ChatClient implements Runnable {
                     length = s.getInputStream().read(buf);
                     mes = new String(buf, 0, length);
                     //����� ���������� ������ ���������� ���������� ������� connectionId
-                    if (mes.startsWith("connectionAm")) {
+//                    if (mes.startsWith("connectionAm")) {
+                    if (m.getConnectionId() == 0) {
                         String[] pars = mes.split(" ");
                         m.setConnectionId(Integer.parseInt(pars[1]));
                         System.out.println("my id now is " + m.getConnectionId());
+                        m.token = pars[2];
+                        System.out.println("m.token " + m.token);
                     }
                     System.out.println("message from server: " + mes);
                 }

@@ -60,6 +60,13 @@ public class HashClass {
         return toHex(salt) + " " + pas.toString() + " " + toHex(hash);
     }
 
+    public static String getToken() {
+        SecureRandom random = new SecureRandom();
+        byte[] salt = new byte[SALT_BYTE_SIZE];
+        random.nextBytes(salt);
+        return toHex(salt);
+    }
+
     /**
      * My method for testing DB
      * @param password

@@ -10,6 +10,7 @@ import org.codehaus.jackson.map.ObjectMapper;
 import session.Message;
 import session.Session;
 import session.User;
+import tools.HashClass;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -141,7 +142,12 @@ public class ChatServer implements Runnable,CommonServer {
                 if (m.getConnectionId() != 0) {
                     System.out.println("\nHandling message from clientId = " + m.getConnectionId());
                     //��� ������� ��������� �� ��������� ����� ������������ � �������� � ���� ������� Session
-                    String answer = handler.handle(m.getBody(), session);
+                    String answer;
+                    if (! session.token.equals(m.token) ) {
+                        answer = "Try to reconnect please";
+                    } else {
+                        answer = handler.handle(m.getBody(), session);
+                    }
                     socket.getOutputStream().write(answer.getBytes());
                     if (session.getSessionUser() != null) {
                         sendToChat(answer, session);
@@ -149,7 +155,9 @@ public class ChatServer implements Runnable,CommonServer {
                 //else-���� ����������� ��� ������ ��������� �� �������
                 } else {
                     System.out.println("\nSending connectionId = " + threadId + " to the new client from server.");
-                    String ans = "connectionAmount " + String.valueOf(threadId);
+                    session.token = HashClass.getToken();
+                    System.out.println("token " + session.token);
+                    String ans = "connectionAmount " + String.valueOf(threadId) + " " + session.token;
                     socket.getOutputStream().write(ans.getBytes());
                     //initNewConnection();
                 }
